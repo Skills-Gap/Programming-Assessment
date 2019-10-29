@@ -9,7 +9,7 @@ While not a very new or novel problem, this assessment is designed to provide us
   1. Pseudocode your solution, and
   1. To test and submit your results.
 
-We ask that you refrain from searching for any answers for this assessment. Searching for syntax and functions is, of course, allowed, but plagiarism will be ground for removal from candidacy.
+We ask that you refrain from searching for any answers for this assessment. Searching for syntax and functions is, of course, allowed, but plagiarism will be grounds for removal from candidacy.
 
 # The Problem
 
