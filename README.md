@@ -24,6 +24,8 @@ We ask that you refrain from searching for any answers for this assessment. Sear
 > 1. Ensure that your translation matrix works. My life is counting on it!
 > 1. Let me know when your work is complete in a private repository on GitHub.
 
+> "The message I need to send is: **The quick brown fox has jumped over the lazy dog.**"
+
 > "Bona fortuna."
 
 > "—Agent X"
