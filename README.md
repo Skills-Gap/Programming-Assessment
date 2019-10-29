@@ -13,7 +13,9 @@ We ask that you refrain from searching for any answers for this assessment. Sear
 
 # The Problem
 
-> "Hi! I can't tell you my name right now because I'm working undercover, but I know you're a rockstar technologist who can help me! I'm currently trapped in enemy territory and I need you to transmit this message so that my colleagues will know I'm in trouble. However, this message has to be secure, so this is why I've come to you."
+You received this strange message to your personal email account:
+
+> "Greetings and salutations. I can't tell you my name right now because I'm working undercover, but I know you're a rockstar technologist who can help me! I'm currently trapped in enemy territory and I need you to transmit this message so that my colleagues will know I'm in trouble. However, this message has to be secure, so this is why I've come to you."
 
 > "I need _someone_ in my government to read this message, and they'll be monitoring Twitter."
 
